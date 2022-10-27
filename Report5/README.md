@@ -3,8 +3,8 @@
 ### *October 27, 2022*
 
 # Summary
-This report is split into 2 parts:
-Part 1: Knowledge distillation with a Multi-Layer Perceptron
+This report is split into 2 parts:  
+Part 1: Knowledge distillation with a Multi-Layer Perceptron  
 Part 2: Knowledge distillation with a ConvNN
 
 # Files
@@ -13,7 +13,7 @@ Part 2: Knowledge distillation with a ConvNN
 .
 ├── Part1.ipynb : Contains part 1 of the report
 ├── Part2.ipynb : Contains part 2 of the report
-└── README.md :This file
+└── README.md : This file
 ```
 
 # Instructions
