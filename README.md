@@ -19,3 +19,7 @@ The contents of the reports are as follows:
 ### Report 4
 
 - I explore transfer learning in PyTorch, more data augmentation, and a combination of the two methods.  
+
+### Report 5
+
+- I explore knowledge distillation on both a Multi-Layer Perceptron and on a convolutional neural network
