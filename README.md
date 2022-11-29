@@ -22,4 +22,12 @@ The contents of the reports are as follows:
 
 ### Report 5
 
-- I explore knowledge distillation on both a Multi-Layer Perceptron and on a convolutional neural network
+- I explore knowledge distillation on both a Multi-Layer Perceptron and on a convolutional neural network.
+
+### Report 6
+
+- I use two different Bayesian Optimization packages in different settings (hyperparameter tuning as well as function minimization).
+
+### Report 7
+
+- I perform exploratory data analysis on the Cityscapes dataset.
