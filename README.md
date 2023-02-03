@@ -35,3 +35,7 @@ The contents of the reports are as follows:
 ### Report 8
 
 - I explore the SemEval-2012 Task 2 dataset used for NLP models in evaluating semantic relationships.
+
+### Report 9
+
+- I explore the vectors from the GloVe model by utilizing cosine similarity as well as t-SNE.
