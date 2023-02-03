@@ -31,3 +31,7 @@ The contents of the reports are as follows:
 ### Report 7
 
 - I perform exploratory data analysis on the Cityscapes dataset.
+
+### Report 8
+
+- I explore the SemEval-2012 Task 2 dataset used for NLP models in evaluating semantic relationships.
