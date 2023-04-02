@@ -22,3 +22,5 @@
 
 # Instructions
 My report is in the file `April5.ipynb`. Please look at that when grading. In this report, I explore BERT through RoBERTa. I pre-train the model using my own hyperparameters to explore the effect of the inverted bottleneck in the model. I also do data pre-processing on SQuAD before attaching a SQuAD head to the BERT model.
+
+Note: The Train/Train_32/Validation/Validation_32 files we're not uploaded to github because they were too large.
