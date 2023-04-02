@@ -39,3 +39,15 @@ The contents of the reports are as follows:
 ### Report 9
 
 - I explore the vectors from the GloVe model by utilizing cosine similarity as well as t-SNE.
+
+### Report 10
+
+- I do EDA on the CoNLL-2003 dataset and use a Named Entity Recognition (NER) model.
+
+### Report 11
+
+- For this report I explore Byte Pair Encoding (BPE) for tokenization.
+
+### Report 12
+
+- For this report I explore and use BERT through the RoBERTa model.
