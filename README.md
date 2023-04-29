@@ -51,3 +51,7 @@ The contents of the reports are as follows:
 ### Report 12
 
 - For this report I explore and use BERT through the RoBERTa model.
+
+### Report 13
+
+- For this report, I explore the CLIP model through downstream applications.
