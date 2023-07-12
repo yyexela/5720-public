@@ -56,6 +56,6 @@ The contents of the reports are as follows:
 
 - For this report, I explore the CLIP model through downstream applications.
 
-## Report 14
+### Report 14
 
 - For this report, I analyze the effects of generation strategies on GPT2.
